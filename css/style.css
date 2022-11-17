@@ -1,0 +1,96 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat';
+}
+
+.desconto{
+    width: 100%;
+    height: 60px;
+    font-size: .9em;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #181818;
+}
+
+.header{
+    height: 438px;
+    width: 100%;
+
+    background: linear-gradient(rgba(24, 24, 24, .6), rgba(24, 24, 24, .6)), url("../img/Capa.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.logo{
+    width: 100%;
+    height: 60px;
+    color: #181818;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.5em;
+    line-height: 196.19%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #F9F9F9;
+}
+
+.chamada{
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: 120px 0 0 100px;
+}
+
+.chamada h1{
+    font-weight: 700;
+    font-size: 2em;
+    color: #F9F9F9;
+}
+
+.chamada p{
+    font-weight: 500;
+    font-size: 1em;
+    line-height: 196.19%;
+}
+
+.content{
+    display: grid;
+    grid-template-columns: minmax(100px, 5px) 5fr minmax(10px, 1fr);
+    grid-template-areas: ". div ." ". air-jordan .";
+    justify-content: end;
+}
+
+.div{
+    grid-area: div;
+    text-align: center;
+    margin: 58px 0;
+}
+
+.air-jordan{
+    grid-area: air-jordan;
+    display: grid;
+    gap: 13px;
+    background: #F9F9F9;
+}
+
+.air-jordan-geral{
+    width: 300px;
+    height: 302px;
+    background: #EBE9EA;
+}
+
+
+
