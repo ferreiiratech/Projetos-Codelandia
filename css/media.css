@@ -7,6 +7,12 @@
     }
 }
 
+@media (max-width:768px){
+    .air-jordan{
+        padding: 0 15px;
+    }
+}
+
 @media (max-width: 650px){
     .chamada{
         margin: 120px 0 0 5vw;

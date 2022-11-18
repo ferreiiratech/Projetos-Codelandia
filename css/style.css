@@ -66,31 +66,79 @@
     line-height: 196.19%;
 }
 
-.content{
-    display: grid;
-    grid-template-columns: minmax(100px, 5px) 5fr minmax(10px, 1fr);
-    grid-template-areas: ". div ." ". air-jordan .";
-    justify-content: end;
-}
+
 
 .div{
-    grid-area: div;
     text-align: center;
-    margin: 58px 0;
+    margin: 58px 0px;
+}
+
+.div h1{
+    color: #181818;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.5em;
+    line-height: 196.19%;
+}
+
+.div p{
+    font-size: .9em;
+    text-align: center;
 }
 
 .air-jordan{
-    grid-area: air-jordan;
-    display: grid;
-    gap: 13px;
-    background: #F9F9F9;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 0 10vw;
 }
 
 .air-jordan-geral{
     width: 300px;
     height: 302px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
     background: #EBE9EA;
 }
 
+.air-jordan-geral img{
+    opacity: .8;
+    transition: all .3s;
+}
 
+.air-jordan-geral:hover img{
+    opacity: 1;
+    scale: 1.1;
+}
+
+.air-jordan-geral h2{
+    color: #181818;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.2em;
+    line-height: 196.19%;
+}
+
+footer{
+    margin-top: 80px;
+    height: 100px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    color: #EBE9EA;
+    background-color: #181818;
+}
+
+footer a{
+    color: cadetblue;
+    font-weight: bold;
+}
 
