@@ -1,3 +1,13 @@
+.jordan-temporario{
+    display: none;
+}
+
+@media (min-width: 1175px) and (max-width: 1574px){
+    .jordan-temporario{
+        display: flex;
+    }
+}
+
 @media (max-width: 900px){
     .header{
         background: linear-gradient(rgba(24, 24, 24, .6), rgba(24, 24, 24, .6)), url("../img/capa-mobile.png");
@@ -9,7 +19,11 @@
 
 @media (max-width:768px){
     .air-jordan{
-        padding: 0 15px;
+        padding: 0;
+    }
+
+    .air-jordan-geral{
+        width: 280px;
     }
 }
 
