@@ -1,0 +1,241 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+/*  HEADER  */
+.header{
+    padding-left: 5.21vw;
+    display: flex;
+    flex-direction: row;
+    height: 560px;
+    background: #D7D5FF;
+}
+
+.header-text{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.header-text h1{
+    font-family: 'Merriweather', serif;
+    font-size: 2.25em;
+    font-weight: 400;
+    line-height: 47px;
+    color: #2B2B2B;
+    max-width: 349px;
+    height: 95px;
+}
+
+.header-text p{
+    font-family: 'Lato', sans-serif;
+    font-size: 1.1875em;
+    line-height: 32px;
+    color: #555555;
+    max-Width: 389px;
+    Height: 96px;
+    margin-top: 10px;
+}
+
+.header-butao{
+
+    width: 155px;
+    height: 50px;
+    margin-top: 45px;
+
+    font-family: 'Lato';
+    font-size: 1.25em;
+    font-weight: 700;
+    line-height: 24px;
+    color: #FFFFFF;
+    padding: 14px 50px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0px 5px 5px rgba(23, 23, 23, 0.1);
+    border-radius: 5px;
+    background: #6C63FF;
+    transition: all .2s ease-in;
+}
+
+.header-butao:hover{
+    background: #000;
+}
+
+.header-img{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/*  MAIN  */
+.cards{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, auto));
+    padding: 150px 5vw 150px 5vw;
+    gap: 60px 200px;
+    justify-content: center;
+}
+
+
+.card{
+    width: 340px;
+    height: 423px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+}
+
+.card-cor{
+    width: 340px;
+    height: 50%;
+}
+
+
+.vermelho{
+    background: #FF6363;
+}
+
+
+.azul{
+    background: #63ECFF;
+}
+
+
+.rosa{
+    background: #F363FF;
+}
+
+
+.verde{
+    background: #63FF73;
+}
+
+
+.amarelo{
+    background: #FFDD63;
+}
+
+
+.marinho{
+    background: #6663FF;
+}
+
+
+
+.card-text{
+    width: 340px;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card-text h2{
+    font-family: 'Merriweather';
+    color: #2B2B2B;
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 26px;
+    padding-left: 30px;
+}
+
+.card-text p{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #555555;
+    width: 282px;
+    height: 90px;
+    padding-left: 30px;
+}
+
+/* FORM */
+
+.form{
+    height: 750px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #D7D5FF;
+}
+
+.form h2{
+    font-family: 'Merriweather', serif;
+    font-size: 1.85em;
+    font-weight: 400;
+    line-height: 47px;
+    color: #2B2B2B;
+    margin-bottom: 45px;
+}
+
+form{
+    width: 80%;
+    max-width: 470px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form input{
+    width: 100%;
+    height: 65px;
+    display: block;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #4f5152;
+    padding-left: 2px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 6px;
+    outline: none;
+}
+
+.form input::placeholder{
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #6e7275bd;
+    padding-left: 2px;
+}
+
+textarea{
+    width: 100%;
+    height: 165px;
+    font-family: 'Lato';
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #4f5152;
+    border: none;
+    outline: none;
+    border-radius: 6px;
+}
+
+.form input:nth-child(3), .form textarea{
+    margin-bottom: 15px;
+}
+.form input:last-child{
+    color: #fff;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    box-shadow: 0px 5px 5px rgba(23, 23, 23, 0.1);
+    border-radius: 5px;
+    background: #6C63FF;
+}
