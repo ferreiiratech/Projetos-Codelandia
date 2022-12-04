@@ -15,7 +15,7 @@
 
 <ul>
 
-<li><a href="https://blog-codelandia-pi.vercel.app/" targent="_blanck">Projeto 01: Blog</a></li>
+<li><a href="https://blog-codelandia-pi.vercel.app/" target="_blanck">Projeto 01: Blog</a></li>
 <li><a href="#">Projeto 02: JordanShoes</a></li>
 <li><a href="#">Projeto 03: OnePage</a></li>
 <li><a href="#">Projeto 04: Login</a></li>
