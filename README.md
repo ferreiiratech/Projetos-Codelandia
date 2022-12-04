@@ -37,5 +37,5 @@
 
 Clone os projetos da Codelândia pelo seu terminal
   ```
-  git clone https://github.com/raysantori/desafio-codelandia.git
+  git clone https://github.com/ferreira-leonardo/Projetos-Codelandia.git
   ```
