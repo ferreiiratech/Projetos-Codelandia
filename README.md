@@ -21,3 +21,10 @@
 <li><a href="#">Projeto 04: Login</a></li>
 
 </ul>
+
+<h2> Desenvolvedores </h2> <br>
+
+| Designer | Autor |
+| :----: | :----: | 
+|<img src="https://avatars.githubusercontent.com/u/31936044?v=4" width="125px">| <img src="https://media-exp1.licdn.com/dms/image/D4D03AQGpi61XUlSiNg/profile-displayphoto-shrink_200_200/0/1670171733637?e=1675900800&v=beta&t=4sVUcc43N3poHq2dIy0-ZmWU3qMuGa0zO7sE8WNsNwE" width="125px"> |
+|<a href="https://www.linkedin.com/in/iuricode/">Iuricode</a> | <a href="https://www.linkedin.com/in/leonardoferreiralima/">Leonardo Ferreira</a> |
