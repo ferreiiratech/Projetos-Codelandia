@@ -1,0 +1,42 @@
+.jordan-temporario{
+    display: none;
+}
+
+@media (min-width: 1175px) and (max-width: 1574px){
+    .jordan-temporario{
+        display: flex;
+    }
+}
+
+@media (max-width: 900px){
+    .header{
+        background: linear-gradient(rgba(24, 24, 24, .6), rgba(24, 24, 24, .6)), url("../img/capa-mobile.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+}
+
+@media (max-width:768px){
+    .air-jordan{
+        padding: 0;
+    }
+
+    .air-jordan-geral{
+        width: 280px;
+    }
+}
+
+@media (max-width: 650px){
+    .chamada{
+        margin: 120px 0 0 5vw;
+    }
+
+    .chamada h1{
+        font-size: 1.3em;
+    }
+
+    .chamada p{
+        font-size: .8em;
+    }
+}
