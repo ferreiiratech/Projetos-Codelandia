@@ -4,7 +4,7 @@
 
 <h1>Projetos da comunidade Codelândia</h1>
 
-<p>Olá, este repositório é dedicado ao desenvolvimento dos projetos da comunidade Codelândia. Ao desenvolver esses projetos, tenho como objetivo aplicar meus conhecimentos em HTML, CSS e JavaScript afim de fortalecer minhas habilidades no <strong>Desenvolvimento Web</strong></p>
+<p>Olá, este repositório é dedicado ao desenvolvimento dos projetos da comunidade Codelândia. Ao desenvolver esses projetos, tenho como objetivo aplicar meus conhecimentos em HTML, CSS e JavaScript a fim de fortalecer minhas habilidades no <strong>Desenvolvimento Web</strong></p>
 
 <img width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
