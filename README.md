@@ -39,3 +39,6 @@ Clone os projetos da Codelândia pelo seu terminal
   ```
   git clone https://github.com/ferreira-leonardo/Projetos-Codelandia.git
   ```
+
+<h2>🔗Link da Comunidade Codelândia<h2>
+Figma: <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia">Comunidade Codelândia</a>
