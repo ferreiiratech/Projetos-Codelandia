@@ -40,7 +40,6 @@ Clone os projetos da Codelândia pelo seu terminal
   git clone https://github.com/ferreira-leonardo/Projetos-Codelandia.git
   ```
 
-<h2>🔗Link da Comunidade Codelândia<h2>
-  <li><a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia">Projeto 01: Blog</a></li>
+<h2>🔗Link da Comunidade Codelândia</h2>
 <p>Figma: <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia">Comunidade Codelândia</a></p>
-  <p>Olá, este repositório é dedicado ao desenvolvimento dos projetos da comunidade Codelândia. Ao desenvolver esses projetos, tenho como objetivo aplicar meus conhecimentos em HTML, CSS e JavaScript a fim de fortalecer minhas habilidades no <strong>Desenvolvimento Web</strong></p>
+ 
