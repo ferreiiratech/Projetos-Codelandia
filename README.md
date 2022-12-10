@@ -15,7 +15,7 @@
 
 <ul>
 
-<li><a href="https://1-projeto-blog.pages.dev/">Projeto 01: Blog</a></li>
+<li><a href="https://1-projeto-blog.pages.dev/" target="_blanck">Projeto 01: Blog</a></li>
 <li><a href="#">Projeto 02: JordanShoes</a></li>
 <li><a href="#">Projeto 03: OnePage</a></li>
 <li><a href="#">Projeto 04: Login</a></li>
