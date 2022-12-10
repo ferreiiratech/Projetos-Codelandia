@@ -16,9 +16,9 @@
 <ul>
 
 <li><a href="https://1-projeto-blog.pages.dev/">Projeto 01: Blog</a></li>
-<li><a href="#">Projeto 02: JordanShoes</a></li>
-<li><a href="#">Projeto 03: OnePage</a></li>
-<li><a href="#">Projeto 04: Login</a></li>
+<li><a href="https://2-projeto-jordanshoes.pages.dev/">Projeto 02: JordanShoes</a></li>
+<li><a href="https://3-projeto-onepage.pages.dev/">Projeto 03: OnePage</a></li>
+<li><a href="https://4-projeto-tela-de-login.pages.dev/">Projeto 04: Login</a></li>
 
 </ul>
 
