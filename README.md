@@ -41,4 +41,5 @@ Clone os projetos da Codelândia pelo seu terminal
   ```
 
 <h2>🔗Link da Comunidade Codelândia<h2>
+  <li><a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia">Projeto 01: Blog</a></li>
 <p>Figma: <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia">Comunidade Codelândia</a></p>
