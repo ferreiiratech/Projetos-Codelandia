@@ -1,11 +1,8 @@
 let num;
 
 //gera um número de curtida aleatório
-let min = 1;
-let max = 100;
-let dif = max - min;
 let aleatorio = Math.random(); //gera um valor aleatorio entr 0 e 1
-num = min + Math.trunc(dif * aleatorio);
+num = 1 + Math.trunc(99 * aleatorio);
 
 //atribui um valor aleatório de like para cada card
 let curtida1 = document.getElementById("card1").innerHTML = num 
