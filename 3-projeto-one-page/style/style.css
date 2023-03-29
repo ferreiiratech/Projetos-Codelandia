@@ -1,5 +1,3 @@
-@charset "UTF-8";
-
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
 
 * {
@@ -7,8 +5,6 @@
     margin: 0;
 }
 
-
-/*  HEADER  */
 .header{
     padding-left: 5.21vw;
     display: flex;
@@ -45,11 +41,9 @@
 }
 
 .header-butao{
-
     width: 155px;
     height: 50px;
     margin-top: 45px;
-
     font-family: 'Lato';
     font-size: 1.25em;
     font-weight: 700;
@@ -76,8 +70,6 @@
     align-items: center;
 }
 
-
-/*  MAIN  */
 .cards{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, auto));
@@ -85,7 +77,6 @@
     gap: 60px 200px;
     justify-content: center;
 }
-
 
 .card{
     width: 340px;
@@ -98,37 +89,29 @@
     height: 50%;
 }
 
-
 .vermelho{
     background: #FF6363;
 }
-
 
 .azul{
     background: #63ECFF;
 }
 
-
 .rosa{
     background: #F363FF;
 }
-
 
 .verde{
     background: #63FF73;
 }
 
-
 .amarelo{
     background: #FFDD63;
 }
 
-
 .marinho{
     background: #6663FF;
 }
-
-
 
 .card-text{
     width: 340px;
@@ -158,8 +141,6 @@
     height: 90px;
     padding-left: 30px;
 }
-
-/* FORM */
 
 .form{
     height: 750px;
@@ -229,6 +210,7 @@ textarea{
 .form input:nth-child(3), .form textarea{
     margin-bottom: 15px;
 }
+
 .form input:last-child{
     color: #fff;
     font-family: 'Lato';

@@ -1,5 +1,3 @@
-@charset "UTF-8";
-
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 * {
@@ -24,7 +22,6 @@
 .header{
     height: 438px;
     width: 100%;
-
     background: linear-gradient(rgba(24, 24, 24, .6), rgba(24, 24, 24, .6)), url("../img/Capa.png");
     background-repeat: no-repeat;
     background-size: cover;
@@ -66,8 +63,6 @@
     line-height: 196.19%;
 }
 
-
-
 .div{
     text-align: center;
     margin: 58px 0px;
@@ -91,19 +86,9 @@
     grid-template-columns: repeat(auto-fit, minmax(300px, auto));
     padding: 0 10vw;
     gap: 20px;
-
-    /*
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: center;
-    padding: 0 10vw;
-    */
 }
 
 .air-jordan-geral{
-
     margin: 0 auto;
     width: 300px;
     height: 302px;
@@ -150,4 +135,3 @@ footer a{
     color: cadetblue;
     font-weight: bold;
 }
-
